@@ -1,0 +1,10 @@
+CHATGPT
+coba bantu kerjakan soal diatas serta proses soal di atas dengan menggunakan program bahasa c,serta kerjakan sesuai dengan output yang di inginkan
+apakah program di atas menggunakan array?
+Bagaimana kalo program tidak menggunakan tipe data array?
+GEMINI
+Coba kerjakan soal atau case diatas dengan teliti menggunakan program bahasa c dan kerjakan sesuai output yang di inginkan
+apakah program bahasa c diatas sudah menggunakan tipe data array
+coba buat salah satu contoh inputan sesuai soal yang di inginkan
+bagaimana kalo program tidak menggunakan array?
+apakah program bisa di run di terminal?

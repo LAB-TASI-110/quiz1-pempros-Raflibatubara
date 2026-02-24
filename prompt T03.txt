@@ -1,0 +1,14 @@
+GEMINI
+Buatkan sebuah ide tentang sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+coba buatkan program bahasa c dengan ketentuan ide yang pertama
+coba buatkan satu contoh inputan sesuai program di atas
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Institut Teknologi DEL.dengan membuat sistem list loundry .dan buat ke dalam bahasa pemrograman bahasa c
+tambahkan fitur jenis pakaian
+kemudian tambahkan saran dan pesan untuk loundrnya
+coba buatkan contoh inputanya 
+CHATGPT
+coba buatkan ide untuk sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+coba buatkan program bahasa c dengan ketentuan ide yang 1 
+coba buatkan contoh inputan sesuai dengan programm bahasa c di atas
+tidak usah menggunakan perhitungan otomatis harga
+coba buatkan contoh inputanya sesuai dengan program di atas

@@ -1,0 +1,6 @@
+GEMINI
+buat sistem perhitungan yang harus dibayar pembeli
+buatkan ke dalam program bahasa c
+apakah program ini sudah sesuai dengan output yang di berikan pada soal ?
+revisi program di atas dengan program bahasa c dengan output yang di inginkan
+buat contoh input
